@@ -1,0 +1,27 @@
+{
+  "name": "wizytowka1",
+  "version": "1.0.0",
+  "description": "wizytowka1",
+  "main": "index.html",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Piotr Machacki",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-wait": "0.0.2",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^4.0.0"
+  }
+}
